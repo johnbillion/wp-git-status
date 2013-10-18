@@ -1,0 +1,16 @@
+{
+	"name"       : "johnbillion/wp-git-status",
+	"description": "WordPress plugin that shows the Git branch and current status in the admin toolbar",
+	"homepage"   : "https://github.com/johnbillion/wp-git-status/",
+	"type"       : "wordpress-plugin",
+	"license"    : "GPL-2.0+",
+	"authors"    : [
+		{
+			"name"    : "John Blackbourn",
+			"homepage": "https://johnblackbourn.com/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
